@@ -1,0 +1,38 @@
+button:focus {
+    outline: none;
+}
+
+.container {
+    background-color: #0CDA90;
+    font-family: "Fuggles"
+}
+
+.inaccessible-header {
+    color: yellow;
+    font-size: 4em;
+    text-align: center;
+}
+
+.inaccessible-body {
+    font-size: 2em;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.inaccessible-button {
+    background-color: #0CDA90;
+    height: 20px;
+    width: 80px;
+}
+
+.inaccessible-form {
+    text-align: center;
+}
+
+.inaccessible-image {
+    margin-left: 350px;
+    min-width: 800px;
+}
+.inaccessible-link {
+    text-decoration: none;
+}
